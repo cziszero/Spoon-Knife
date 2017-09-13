@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-master change
-=======
-newbranch
->>>>>>> newbranch change
